@@ -1,0 +1,2 @@
+Message: AkgGBBYCCxdBFllVVVYSEwsFRhZVT1ISGg0CAVNWDApSUU9BSQFBRRwKGBQRRkJEFVQfCRoDARJJ RAgRXgYbEgcECg1QXRxIWVFSAA0MW1QPChgUGxVJRAgRXhobHRoCBQFWFlVPUgMUAwwNRkJeT09R UhIPAlcWVU9SFxoOSUQIEV4YHB9URhM=
+Solution: {'success' : 'great', 'colleague' : 'esteemed', 'efforts' : 'incredible', 'achievement' : 'unlocked', 'rabbits' : 'safe', 'foo' : 'win!'}
